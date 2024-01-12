@@ -1,4 +1,4 @@
-IF Statement
+ IF Statement
 num = 8
 if num > 0:
     print("The Number is Positive")
@@ -6,9 +6,17 @@ if num > 0:
 if num < 0:
     print("The number is negative")
 
+If ELSE Statement
 a = 7
 if a % 2 == 0:
     print("The number is even")
-else
+else:
     print("The number is odd")
 
+grade = int(input(Enter Your Grade: "))
+if grade > 90:
+    print("Excellent Job")
+elif grade > 80:
+    print("Good Job")
+else:
+    print("You little Piece of shit")
