@@ -23,3 +23,9 @@ Assignment Operator
 a = 8
 a += 3
 print(a)
+a -= 7
+print(a)
+a *= 5
+print(a)
+a /= 2
+print(a)
