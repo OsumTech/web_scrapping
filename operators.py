@@ -40,3 +40,7 @@ b = list1
 b is list1
 
 list1 is not list2
+
+Membership Operators
+
+
