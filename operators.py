@@ -29,3 +29,14 @@ a *= 5
 print(a)
 a /= 2
 print(a)
+
+Identity Operators
+
+list1 = ['banana', 'apple', 'Orange']
+list2 = ['banana', 'apple', 'Orange']
+list1 is list2
+
+b = list1
+b is list1
+
+list1 is not list2
