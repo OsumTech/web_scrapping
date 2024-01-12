@@ -28,6 +28,8 @@ if grade > 60:
     if grade > 90:
         print("Or yay men asman ki onchaion men")
     elif grade > 80:
-        print("men to betha hun qismat k bharosy")
+        print("dil garden garden ho rya bohat mja a rya yahan py")
     else:
         print("ay bhaiya men to tutt gya")
+else:
+    print("men to betha hun qismat k bharosay")
