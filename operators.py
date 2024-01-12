@@ -17,3 +17,4 @@ x > 2 and y < 8
 x > 2 and y <= 8
 
 x > 2 or y < 8
+not(x > 2 and y <= 8)
