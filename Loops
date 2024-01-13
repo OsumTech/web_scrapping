@@ -1,12 +1,22 @@
 ***For Loop***
+
 fruits = ['banana', 'orange', 'apple']
 for fruit in fuits:
     print("I like ", fruit)
+
 for number in range(8):
     print("Atempt num ", number)
 
 for number in range(1,9):
     print("Attempt num ", numer)
+
+numbers = [4, 8, 11, 5, 13]
+
+for num in range(len(numbers)):
+    if numbers[num] % 2 == 0:
+        sum += numbers[num]
+print(:the sum of all the even numbers is ", num)
+len(numbers)
 
 ***While Loop***
 
