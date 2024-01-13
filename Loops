@@ -2,6 +2,11 @@
 fruits = ['banana', 'orange', 'apple']
 for fruit in fuits:
     print("I like ", fruit)
+for number in range(8):
+    print("Atempt num ", number)
+
+for number in range(1,9):
+    print("Attempt num ", numer)
 
 ***While Loop***
 
