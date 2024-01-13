@@ -1,1 +1,8 @@
 ***For Loop***
+fruits = ['banana', 'orange', 'apple']
+for fruit in fuits:
+    print("I like ", fruit)
+
+***While Loop***
+
+***Nested Loop***
