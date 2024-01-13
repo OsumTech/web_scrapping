@@ -26,4 +26,5 @@ while i <= num:
     print(i)
     i += 1
 
+
 ***Nested Loop***
