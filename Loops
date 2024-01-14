@@ -28,3 +28,9 @@ while i <= num:
 
 
 ***Nested Loop***
+list1 = [1, 2, 3]
+list2 = [4, 5, 6]
+for number in list1:
+    for number2 in list2:
+        product = number1 * number2
+        message = f"The product of {number1} & {number2} is {product}"
