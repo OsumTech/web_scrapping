@@ -1,4 +1,4 @@
-***For Loop***
+ ***For Loop***
 
 fruits = ['banana', 'orange', 'apple']
 for fruit in fuits:
