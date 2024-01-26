@@ -33,3 +33,4 @@ if grade > 60:
         print("bekar hai bhaiya men to tutt gya")
 else:
     print("men to betha hun qismat k bharosay")
+a
