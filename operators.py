@@ -45,4 +45,3 @@ Membership Operators
 'banana' in list1
 'apple' is not in list2
 
-
