@@ -26,7 +26,6 @@ while i <= num:
     print(i)
     i += 1
 
-
 ***Nested Loop***
 list1 = [1, 2, 3]
 list2 = [4, 5, 6]
