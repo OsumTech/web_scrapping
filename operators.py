@@ -12,6 +12,7 @@ x > y
 x != y
 x == y
 
+
 Logical Operators
 x > 2 and y < 8
 x > 2 and y <= 8
