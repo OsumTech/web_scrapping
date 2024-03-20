@@ -21,7 +21,6 @@ elif grade > 80:
 else:
     print("You little Piece of shit")
 
-
 ***Nested IF***
 grade = int(input(Enter Your Grade: "))
 if grade > 60:
