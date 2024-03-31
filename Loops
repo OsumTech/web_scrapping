@@ -19,6 +19,7 @@ print("the sum of all the even numbers is ", num)
 len(numbers)
 
 
+
 ***While Loop***
 
 num = int(input("Enter a number "))
